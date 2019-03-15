@@ -19,8 +19,11 @@
   vertical-align: middle;
   border-style: none;
   width: 50%;
+  margin-top: 10px;
 
 }
+
+
 
 
 
@@ -57,7 +60,7 @@
 .skills-horizontal .item .name {
   font-size: 18px;
   font-weight: bold;
-  margin-top: 10px;
+  margin-top: 20px;
   margin-bottom: 15px;
   color: inherit;
 }
